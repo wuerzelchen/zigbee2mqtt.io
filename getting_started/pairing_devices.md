@@ -36,6 +36,13 @@ Push the reset button of the device with a paperclip for 5 seconds. While pairin
 ### IKEA TRADFRI remote control (E1524)
 Pair the remote to Zigbee2mqtt by holding it close to the coordinator and pressing the button next to the battery 4 times. The red light on the remote will now flash a few times.
 
+### Müller Licht
+## Tint remote control (MLI-404011)
+Remove the battery cap and press the button above the batteries with the battery cap. Press and hold it for about 10-20 seconds and release the button. After that the remote will connect.
+
+## Tint LED bulb GU10/E14/E27 350/470/806 lumen, dimmable, color, opal white (404000/404005/404012)
+Turn the light on and off five times and with the sixth on signal, the bulb will signal its pairing mode with a color signal.
+
 ## Philips Hue
 Factory reset the light bulb see [HOWTO: Factory reset a Hue bulb](https://www.youtube.com/watch?v=qvlEAELiJKs). After resetting the bulb will automatically connect.
 
